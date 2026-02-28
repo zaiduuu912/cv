@@ -1,0 +1,24 @@
+h1{
+font-size: 300%;
+}
+
+hr{
+    width: 2000px;
+    height: 8px;
+    background-color: black;
+}
+p{
+    padding: 0%;
+    font-size: larger;
+}
+table{
+    width: 1000px;
+    text-align:center;
+}
+table, th, tr, td {
+border: 1px solid black;
+padding: 0.5rem;
+}
+tr:nth-child(odd) {
+background-color: #036f82;
+}
